@@ -1,2 +1,2 @@
 # blazor-brasilapi-cep
-Atividade 'BlazorWasmBrasilApiCep' proposta pelo professor Daniel Henrique Matos de Paiva em sala, no dia 21/10/2026 na UC UDWMJ
+Projeto de Consulta de CEP consumindo a BrasilAPI em Blazor WebAssembly. Aluno: Eduardo Alves e Santos - RA: 124114208 - Curso: Engenharia de Software - UniBH Buritis.
